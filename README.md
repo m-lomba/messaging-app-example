@@ -1,4 +1,4 @@
-# Android Real-Time Messaging App Example (Java)
+# Messaging App Example
 
 An Android reference application demonstrating a real-time messaging interface powered by Firebase Authentication and Firebase Realtime Database in Java.
 
